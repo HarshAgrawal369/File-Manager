@@ -1,7 +1,7 @@
-# Blog Bridges Project
+# File Manager Main
 
 ## Project Overview
-Blog Bridges is a web application built with Django that allows users to sign up, log in, and create blog posts. Users can upload files (PDF or Excel) with their posts, and the application extracts the content from these files automatically. Posts can be marked as public or private. Public posts are visible to all users on the home page, while private posts are only visible to their authors.
+File Manager is a web application built with Django that allows users to sign up, log in, and create blog posts. Users can upload files (PDF or Excel) with their posts, and the application extracts the content from these files automatically. Posts can be marked as public or private. Public posts are visible to all users on the home page, while private posts are only visible to their authors.
 
 ## Important Files and Their Functionalities
 
